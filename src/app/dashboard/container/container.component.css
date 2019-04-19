@@ -1,0 +1,21 @@
+:host{
+    border: 1px solid red;
+}
+
+.main-container{
+    display: flex;
+    
+}
+
+.item-nav {
+    border: 1px solid red;
+    /* flex-grow: 1 */
+    width: 20%
+}
+
+.item-content {
+    border: 1px solid red;
+    /* flex-grow: 5 */
+    width: 80%
+
+}
